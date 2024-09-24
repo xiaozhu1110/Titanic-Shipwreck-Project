@@ -4,7 +4,7 @@
 
 The sinking of the Titanic is one of the most infamous disasters in history. Predicting which passengers survived the tragedy is a well-known challenge in the field of data science and machine learning. In this project, we use various machine learning models to predict passenger survival based on available features such as age, gender, and class. This project emphasizes feature engineering, model optimization, and evaluation to create an accurate classification model.
 
-Refer to **Data Analysis (Titanic Classification).ipynb** for the code.
+Refer to [Data Analysis (Titanic Classification).ipynb](https://github.com/xiaozhu1110/Titanic-Shipwreck-Project/blob/main/Data%20Analysis%20(Titanic%20Classification).ipynb) for the code.
 
 ## 1. Problem Statement
 
